@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F4F5F1"/>
+  <rect x="56" y="56" width="1088" height="518" rx="28" fill="#FBFCF9" stroke="#D4DDD3"/>
+  <circle cx="920" cy="190" r="135" fill="#E57962" fill-opacity="0.9"/>
+  <path d="M945 130C912 131 898 156 898 171C898 200 935 205 951 219C964 231 970 251 951 266C930 282 894 283 869 275" stroke="#1C2A29" stroke-width="12" stroke-linecap="round"/>
+  <path d="M844 388H469" stroke="#1C2A29" stroke-width="4" stroke-linecap="round"/>
+  <path d="M844 430H595" stroke="#1C2A29" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <text x="140" y="228" fill="#1C2A29" font-family="Georgia, serif" font-size="74" letter-spacing="1">Itunuoluwa Adejimi</text>
+  <text x="140" y="292" fill="#176B54" font-family="Verdana, sans-serif" font-size="32" letter-spacing="5">STUDENT • BUILDER • LEARNER</text>
+  <text x="140" y="410" fill="#47564D" font-family="Verdana, sans-serif" font-size="34">Building practical digital experiences</text>
+  <text x="140" y="472" fill="#47564D" font-family="Verdana, sans-serif" font-size="34">through projects, learning, and community.</text>
+</svg>
